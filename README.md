@@ -55,7 +55,7 @@ This project is a part of the test assignment for the **Python Developer (Comput
 
 ##  2. Model Training
 
-### 2.1 First Experiment (exp1)
+### 2.1 First Experiment
 
 ```python
 model.train(
@@ -77,7 +77,7 @@ model.train(
 * mAP@0.5:0.95: 0.8858
 * Val box loss: 0.4415
 
-### 2.2 Second Experiment (exp2 - tuned)
+### 2.2 Second Experiment
 
 ```python
 model.train(
